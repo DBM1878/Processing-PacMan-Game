@@ -23,3 +23,7 @@ In this game there are 2 different kinds of levels, normal levels and quiz level
 ![image](https://github.com/DBM1878/Processing-PacMan-Game/assets/138180545/bfb1c0f1-b785-4d3a-80b0-1859aa1c5909)
 
 ![image](https://github.com/DBM1878/Processing-PacMan-Game/assets/138180545/67f9ea6c-63fe-4157-a897-d696a9ec313b)
+
+
+Controls:
+The player will use the arrow keys to control the player character and move them around the screen.
